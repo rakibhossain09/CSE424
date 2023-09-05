@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/eLn91BhSEQ0
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FConference%2FRecent
 
 Paper title:
 Smart OCR for Recognizing Bangla Characters
@@ -14,16 +14,16 @@ Paper presentation (anyone can view without login):
 https://tinyurl.com/ms4ynecb
 
 Paper submission date (to workshop/conference):
-25 October 1999
+5 September 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+312
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+26th INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION TECHNOLOGY
 
 Conference URL:
-http://confsite/...
+https://iccit.org.bd/2023/
 
 Group Number:
 30

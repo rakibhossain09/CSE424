@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/5387191749bpkhfnqgtmtt
 
 Unlisted YouTube video:
-https://youtu.be/BZcowP4Q5vk
+https://youtu.be/ieSFHEWELdQ?si=Dh932hsemoYUltv1
 
 Conference submitted paper / paper submission / login Link:
 https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FConference%2FRecent
@@ -11,7 +11,7 @@ Paper title:
 Smart OCR for Recognizing Bangla Characters
 
 Paper presentation (anyone can view without login):
-https://tinyurl.com/ms4ynecb
+https://docs.google.com/presentation/d/1vYz440t059xQ8k2VBX1SrTTcsxLi2qO3diqLHGjHXMw/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 5 September 2023
